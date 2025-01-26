@@ -75,7 +75,7 @@ You can view the live demo of this project hosted on GitHub Pages:
 
 ## Author
 
-[Your Name](https://github.com/your-username)
+[NeenduDev](https://github.com/NeenduDev)
 
 ## License
 
